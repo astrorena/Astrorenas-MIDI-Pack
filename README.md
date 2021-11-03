@@ -6,6 +6,7 @@ u can find midis i dont release on my channel here and i might add other shit th
 
 
 here are some Questions and Answers because y'all probably have some
+
 Q: What is a MIDI?
 A: well to me it's pretty much the song but you can play it on the piano. FNF cover creators most often use MIDIS to create their covers by either recreating the vocals of a song themself or with the help of other people.
 
