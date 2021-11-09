@@ -4,6 +4,8 @@ My MIDI Pack. If you're gonna use em you can credit me as Astrorena on Youtube o
 u can find midis i dont release on my channel here and i might add other shit that isnt midis in the future like USTs
 
 
+MY SEPERATE MIDI FOLDER IS MOSTLY UNTESTED MIDIS! USE WITH CAUTION, MIGHT NOT BE PERFECT!
+
 
 here are some Questions and Answers because y'all probably have some
 
