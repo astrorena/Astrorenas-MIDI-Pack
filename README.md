@@ -6,6 +6,8 @@ u can find midis i dont release on my channel here and i might add other shit th
 
 MY SEPERATE MIDI FOLDER IS MOSTLY UNTESTED MIDIS! USE WITH CAUTION, MIGHT NOT BE PERFECT!
 
+MY ONLINE SEQUENCER PAGE: https://onlinesequencer.net/members/63884
+
 
 here are some Questions and Answers because y'all probably have some
 
