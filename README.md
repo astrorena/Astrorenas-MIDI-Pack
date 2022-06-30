@@ -1,10 +1,10 @@
 # Astrorenas-MIDI-Pack
-My MIDI Pack. If you're gonna use em you can credit me as Astrorena on Youtube or aneres. Idc which. Thanks
+My MIDI Pack. If you're gonna use em you dont gotta credit me and shit
 
 u can find midis i dont release on my channel here and i might add other shit that isnt midis in the future like USTs
 
 
-MY SEPERATE MIDI FOLDER IS MOSTLY UNTESTED MIDIS! USE WITH CAUTION, MIGHT NOT BE PERFECT!
+MY SEPERATE MIDI FOLDER IS MOSTLY UNTESTED/NOT COMPLETELY ACCUARATE MIDIS! USE WITH CAUTION, MIGHT NOT BE PERFECT!
 
 MY ONLINE SEQUENCER PAGE: https://onlinesequencer.net/members/63884
 
